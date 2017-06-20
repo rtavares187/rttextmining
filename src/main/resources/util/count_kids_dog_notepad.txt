@@ -1,0 +1,112 @@
+Search " kids " (84 hits in 54 files) " dog " (69 hits in 26 files)
+cv327_20292.txt (4 hits) (10 hits)
+cv304_28706.txt (7 hits)(4 hits)
+cv119_9867.txt (2 hits) (2 hits)
+cv298_23111.txt (1 hit) (2 hits)
+cv284_19119.txt (1 hit) (1 hit)
+cv256_14740.txt (7 hits)
+cv380_7574.txt (5 hits)
+cv339_21119.txt (4 hits)
+cv463_10343.txt (2 hits)
+cv046_10188.txt (2 hits)
+cv062_23115.txt (2 hits)
+cv201_6997.txt (2 hits)
+cv273_29112.txt (2 hits)
+cv410_24266.txt (2 hits)
+cv412_24095.txt (2 hits)
+cv000_29590.txt (1 hit)
+cv003_11664.txt (1 hit)
+cv010_29198.txt (1 hit)
+cv031_18452.txt (1 hit)
+cv047_1754.txt (1 hit)
+cv059_28885.txt (1 hit)
+cv073_21785.txt (1 hit)
+cv078_14730.txt (1 hit)
+cv092_28017.txt (1 hit)
+cv093_13951.txt (1 hit)
+cv095_28892.txt (1 hit)
+cv134_22246.txt (1 hit)
+cv138_12721.txt (1 hit)
+cv148_16345.txt (1 hit)
+cv184_2673.txt (1 hit)
+cv185_28654.txt (1 hit)
+cv194_12079.txt (1 hit)
+cv209_29118.txt (1 hit)
+cv229_13611.txt (1 hit)
+cv240_14336.txt (1 hit)
+cv241_23130.txt (1 hit)
+cv279_18329.txt (1 hit)
+cv282_6653.txt (1 hit)
+cv292_7282.txt (1 hit)
+cv316_6370.txt (1 hit)
+cv343_10368.txt (1 hit)
+cv346_18168.txt (1 hit)
+cv358_10691.txt (1 hit)
+cv405_20399.txt (1 hit)
+cv416_11136.txt (1 hit)
+cv417_13115.txt (1 hit)
+cv421_9709.txt (1 hit)
+cv426_10421.txt (1 hit)
+cv446_11353.txt (1 hit)
+cv451_10690.txt (1 hit)
+cv465_22431.txt (1 hit)
+cv468_15228.txt (1 hit)
+cv478_14309.txt (1 hit)
+cv479_5649.txt (1 hit)
+
+----- DOG ------- (69 hits in 26 files)
+
+cv008_29435.txt (1 hit)
+cv023_12672.txt (1 hit)
+cv033_24444.txt (2 hits)
+cv097_24970.txt (1 hit)
+cv100_11528.txt (1 hit)
+cv105_17990.txt (1 hit)
+cv110_27788.txt (1 hit)
+cv112_11193.txt (6 hits)
+cv115_25396.txt (1 hit)
+cv119_9867.txt (2 hits)
+cv136_11505.txt (6 hits)
+cv153_10779.txt (7 hits)
+cv171_13537.txt (1 hit)
+cv193_5416.txt (1 hit)
+cv222_17395.txt (1 hit)
+cv257_10975.txt (1 hit)
+cv269_21732.txt (7 hits)
+cv274_25253.txt (1 hit)
+cv284_19119.txt (1 hit)
+cv298_23111.txt (2 hits)
+cv304_28706.txt (4 hits)
+cv327_20292.txt (10 hits)
+cv344_5312.txt (3 hits)
+cv345_9954.txt (2 hits)
+cv381_20172.txt (1 hit)
+cv390_11345.txt (4 hits)
+
+------------------------------------
+
+cv327_20292.txt (4 e 10) - Retornado
+cv304_28706.txt (7 e 4) - Retornado
+cv119_9867.txt (2 e 2) - Retornado
+cv298_23111.txt (1 e 2) - Retornado
+cv284_19119.txt (1 e 1) - N
+cv153_10779.txt (0 e 7) - Retornado
+cv136_11505.txt (0 e 6) - Retornado
+cv112_11193.txt (0 e 6) - Retornado
+cv256_14740.txt (7 e 0) - N
+cv380_7574.txt (5 e 0) - Retornado
+
+------------------------------------
+
+Documento                     | Dist. Coseno     | Similaridade    
+cv119_9867.txt                |00,12             |03,19           
+cv390_11345.txt               |00,08             |02,52           
+cv304_28706.txt               |00,08             |04,14           
+cv327_20292.txt               |00,07             |04,56           
+cv153_10779.txt               |00,07             |02,90           
+cv344_5312.txt                |00,07             |02,32           
+cv298_23111.txt               |00,06             |02,93           
+cv112_11193.txt               |00,06             |02,80           
+cv136_11505.txt               |00,05             |02,80           
+cv380_7574.txt                |00,05             |01,49           
+cv269_21732.txt               |00,05             |02,90  
